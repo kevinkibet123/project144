@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+pillow
+requests
+huggingface_hub
+pyautogui
+webbrowser
